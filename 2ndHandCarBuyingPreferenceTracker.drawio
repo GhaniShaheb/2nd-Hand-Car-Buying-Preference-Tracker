@@ -785,10 +785,10 @@
         <mxCell id="YExqCfBzZgoQN-jnLlza-190" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1045" y="911.25" width="100" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="KfUkXyVgIjZABcmgW62a-1" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KfUkXyVgIjZABcmgW62a-1" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1250" y="1060" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KfUkXyVgIjZABcmgW62a-2" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KfUkXyVgIjZABcmgW62a-2" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1340" y="1167.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
